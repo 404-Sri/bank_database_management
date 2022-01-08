@@ -25,7 +25,7 @@ public class javasqltst {
 		
 		String url = "jdbc:mysql://localhost:3306/bank";
 		String username = "root";
-		String password = "Bindusri@09";
+		String password = "your-database-password";
 		
 		Connection conn = null;
 		Statement stmt = null;
